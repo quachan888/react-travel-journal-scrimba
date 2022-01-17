@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-travel-journal-scrimba/static/css/main.b489b3ef.css",
+    "main.js": "/react-travel-journal-scrimba/static/js/main.0c5c4cb8.js",
+    "static/media/location-icon.png": "/react-travel-journal-scrimba/static/media/location-icon.380ad3d22c1b9a2df856.png",
+    "index.html": "/react-travel-journal-scrimba/index.html",
+    "main.b489b3ef.css.map": "/react-travel-journal-scrimba/static/css/main.b489b3ef.css.map",
+    "main.0c5c4cb8.js.map": "/react-travel-journal-scrimba/static/js/main.0c5c4cb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b489b3ef.css",
+    "static/js/main.0c5c4cb8.js"
+  ]
+}
