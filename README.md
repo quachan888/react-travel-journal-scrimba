@@ -9,10 +9,5 @@ Figma link: https://www.figma.com/file/5hP01udKDklstDhHeiPvyr/Travel-Journal-(Co
 
 ## What I learn
 
--   From Figma to React App
--   Data Array loaded from js file
--   Use map() and props
--   HTML CSS
-
 ![Travel Journal Screenshot](/screenshot1.png?raw=true "Figma to real project")
 ![Travel Journal Screenshot](/screenshot.png?raw=true "VS Code")
